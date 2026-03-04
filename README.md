@@ -72,9 +72,6 @@
 </a>
 &nbsp;
 <a href="mailto:putugnal.a@northeastern.edu">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-</p>
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=313jrqheephdbpwohmi4noe4puna&cover_image=true&theme=novatorem" width="400px" />
 </p>
