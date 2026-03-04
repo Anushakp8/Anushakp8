@@ -61,7 +61,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anushakp8&theme=midnight-purple" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Anushakp8&show_icons=true&theme=midnight-purple&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2" />
 </p>
 
 ---
@@ -73,7 +72,6 @@
 </a>
 &nbsp;
 <a href="mailto:putugnal.a@northeastern.edu">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
 
