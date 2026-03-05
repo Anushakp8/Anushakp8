@@ -1,9 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=702963&height=200&section=header&text=Anusha%20Kashipura%20Putugnal&fontSize=40" width=100%>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Achievement-Pull%20Request%20Pro-blueviolet?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Achievement-Quick%20Responder-8E2DE2?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Achievement-Vibe--Coder-8E2DE2?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Expertise-Agentic%20AI-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Expertise-Machine%20Learning-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 <p align="left"> 
@@ -11,7 +11,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Anusha</h1>
-<h3 align="center">MS in Information Systems Student @ Northeastern University | Agentic AI & ML Expert</h3>
+<h3 align="center">MS in Information Systems @ Northeastern University | Agentic AI & ML Expert</h3>
 
 <p align="center">
   <b>Expertise in Agentic AI, Machine Learning, and Claude Code.</b><br>
@@ -29,49 +29,18 @@
 
 ---
 
-### 🤖 Artificial Intelligence & Machine Learning:
-<p align="left">
-  <img src="https://img.shields.io/badge/Agentic%20AI-FF6F00?style=for-the-badge&logo=ai&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/Machine%20Learning-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
+### 🚀 Key Expertise & Projects:
 
-### 📝 Tech Stack:
-<p align="left">
-  <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> &nbsp;
-  <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> &nbsp;
-  <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> &nbsp;
-  <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> &nbsp;
-  <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> &nbsp;
-  <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-</p>
-
----
-
-### 🚀 Featured Projects:
-
-<details>
-  <summary><b>🤟 AI-Driven Sign Language Translator</b></summary>
-  <br/>
-  <ul>
-    <li>Spearheaded benchmarking of Sign Language Recognition (SLR) systems, delivering 99.9% classification accuracy. [cite: 33]</li>
-    <li>Published research in IJIRSET (March 2023) regarding multi-modal feature fusion and deep learning. [cite: 38, 39]</li>
-  </ul>
-</details>
-
-<details>
-  <summary><b>🛒 University Marketplace System</b></summary>
-  <br/>
-  <ul>
-    <li>Architected a peer-to-peer trading platform with a normalized SQL Server database (15+ tables) and AES-256 encryption. [cite: 24]</li>
-    <li>Integrated Tableau analytics to visualize dispute trends and seller performance. [cite: 26]</li>
-  </ul>
-</details>
+* **Artificial Intelligence:** Spearheaded benchmarking of AI-driven Sign Language Recognition (SLR) systems, achieving 99.9% classification accuracy[cite: 31, 33].
+* **System Architecture:** Designed a 3-tier Java Swing-based Blood Donation Management System supporting 13 user roles[cite: 27, 28].
+* **Data Engineering:** Developed a peer-to-peer Marketplace System with a normalized SQL Server database using 15+ tables and AES-256 encryption[cite: 22, 24].
+* **Professional Background:** Previously served as an Associate Engineer at E to E Transportation Infrastructure[cite: 12, 13].
 
 ---
 
 ### 📊 GitHub Stats:
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anushakp8&show_icons=true&theme=midnight-purple&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anushakp8&theme=midnight-purple" />
 </p>
