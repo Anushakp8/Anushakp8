@@ -1,11 +1,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=702963&height=200&section=header&text=Anusha%20Kashipura%20Putugnal&fontSize=40" width=100%>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Anushakp8&theme=midnight-purple&column=7" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Anushakp8&theme=midnight-purple&column=7" />
 </p>
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=Anushakp8&label=Profile%20views&color=blueviolet&style=flat" alt="count" />
+  <img src="https://komarev.com/ghpvc/?username=Anushakp8&label=Profile%20views&color=blueviolet&style=flat" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Anusha</h1>
@@ -22,7 +22,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anushakp8/Anushakp8/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anushakp8/Anushakp8/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Anushakp8/Anushakp8/output/github-contribution-grid-snake.svg">
+  <img alt="snake" src="https://raw.githubusercontent.com/Anushakp8/Anushakp8/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
@@ -46,11 +46,33 @@
 
 ---
 
+### 🚀 Featured Projects:
+
+<details>
+  <summary><b>🤟 AI-Driven Sign Language Translator</b></summary>
+  <br/>
+  <ul>
+    <li>Spearheaded benchmarking of Sign Language Recognition (SLR) systems, delivering 99.9% classification accuracy. [cite: 33]</li>
+    <li>Published research in IJIRSET (March 2023) regarding multi-modal feature fusion and deep learning. [cite: 38, 39]</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>🛒 University Marketplace System</b></summary>
+  <br/>
+  <ul>
+    <li>Architected a peer-to-peer trading platform with a normalized SQL Server database (15+ tables) and AES-256 encryption. [cite: 24]</li>
+    <li>Integrated Tableau analytics to visualize dispute trends and seller performance. [cite: 26]</li>
+  </ul>
+</details>
+
+---
+
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anushakp8&show_icons=true&theme=midnight-purple&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2" alt="Anusha Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anushakp8&show_icons=true&theme=midnight-purple&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anushakp8&theme=midnight-purple" alt="Anusha Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anushakp8&theme=midnight-purple" />
 </p>
 
 ---
