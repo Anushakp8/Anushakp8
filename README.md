@@ -1,7 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=702963&height=200&section=header&text=Anusha%20Kashipura%20Putugnal&fontSize=40" width=100%>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Anushakp8&theme=midnight-purple&column=7&no-bg=true&no-frame=true" alt="trophies" />
+  <img src="https://img.shields.io/badge/Achievement-Pull%20Request%20Pro-blueviolet?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Achievement-Quick%20Responder-8E2DE2?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Expertise-Agentic%20AI-FF6F00?style=for-the-badge" />
 </p>
 
 <p align="left"> 
