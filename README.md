@@ -22,7 +22,7 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anushakp8&show_icons=true&theme=midnight-purple" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anushakp8&theme=midnight-purple" />
 </p>
 
 ---
