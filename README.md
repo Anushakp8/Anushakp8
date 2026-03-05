@@ -6,26 +6,8 @@
   <img src="https://img.shields.io/badge/Expertise-Machine%20Learning-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=Anushakp8&label=Profile%20views&color=blueviolet&style=flat" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Anusha</h1>
 <h3 align="center">MS in Information Systems @ Northeastern University | Agentic AI & ML Expert</h3>
-
-<p align="center">
-  <b>Expertise in Agentic AI, Machine Learning, and Claude Code.</b><br>
-  Focused on building autonomous AI agents and scalable information systems.
-</p>
-
----
-
-### 🐍 Contribution Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anushakp8/Anushakp8/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anushakp8/Anushakp8/output/github-contribution-grid-snake.svg">
-  <img alt="snake" src="https://raw.githubusercontent.com/Anushakp8/Anushakp8/output/github-contribution-grid-snake.svg">
-</picture>
 
 ---
 
@@ -40,8 +22,7 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anushakp8&theme=midnight-purple" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anushakp8&show_icons=true&theme=midnight-purple" />
 </p>
 
 ---
