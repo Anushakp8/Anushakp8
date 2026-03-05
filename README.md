@@ -6,23 +6,42 @@
   <img src="https://img.shields.io/badge/Expertise-Machine%20Learning-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=Anushakp8&label=Profile%20views&color=blueviolet&style=flat" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Anusha</h1>
 <h3 align="center">MS in Information Systems @ Northeastern University | Agentic AI & ML Expert</h3>
+
+<p align="center">
+  <b>Expertise in Agentic AI, Machine Learning, and Claude Code.</b><br>
+  Focused on building autonomous AI agents and scalable information systems.
+</p>
+
+---
+
+### 🐍 Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anushakp8/Anushakp8/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anushakp8/Anushakp8/output/github-contribution-grid-snake.svg">
+  <img alt="snake" src="https://raw.githubusercontent.com/Anushakp8/Anushakp8/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
 ### 🚀 Key Expertise & Projects:
 
-* **Artificial Intelligence:** Spearheaded benchmarking of AI-driven Sign Language Recognition (SLR) systems, achieving 99.9% classification accuracy[cite: 31, 33].
-* **System Architecture:** Designed a 3-tier Java Swing-based Blood Donation Management System supporting 13 user roles[cite: 27, 28].
-* **Data Engineering:** Developed a peer-to-peer Marketplace System with a normalized SQL Server database using 15+ tables and AES-256 encryption[cite: 22, 24].
-* **Professional Background:** Previously served as an Associate Engineer at E to E Transportation Infrastructure[cite: 12, 13].
+* **Artificial Intelligence:** Spearheaded benchmarking of AI-driven Sign Language Recognition (SLR) systems, achieving 99.9% classification accuracy.
+* **System Architecture:** Designed a 3-tier Java Swing-based Blood Donation Management System supporting 13 user roles.
+* **Data Engineering:** Developed a peer-to-peer Marketplace System with a normalized SQL Server database using 15+ tables and AES-256 encryption.
+* **Professional Background:** Previously served as an Associate Engineer at E to E Transportation Infrastructure.
 
 ---
 
 ### 📊 GitHub Stats:
 <p align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anushakp8&theme=midnight-purple" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anushakp8&theme=midnight-purple" />
 </p>
 
 ---
