@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Anusha%20Kashipura%20Putugnal&fontSize=40" width=100%>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=702963&height=200&section=header&text=Anusha%20Kashipura%20Putugnal&fontSize=40" width=100%>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Anushakp8&theme=midnight-purple&column=7&margin-w=15" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Anushakp8&theme=midnight-purple&column=7" alt="trophies" />
 </p>
 
 <p align="left"> 
@@ -48,7 +48,9 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anushakp8&show_icons=true&theme=midnight-purple&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anushakp8&show_icons=true&theme=midnight-purple&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2" alt="Anusha Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anushakp8&theme=midnight-purple" alt="Anusha Streak" />
 </p>
 
 ---
@@ -62,8 +64,4 @@
 <a href="mailto:putugnal.a@northeastern.edu">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-</p>
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=313jrqheephdbpwohmi4noe4puna&cover_image=true&theme=novatorem" width="400px" />
 </p>
