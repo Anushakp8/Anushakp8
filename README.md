@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=702963&height=200&section=header&text=Anusha%20Kashipura%20Putugnal&fontSize=40" width=100%>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Anushakp8&theme=midnight-purple&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Anushakp8&theme=midnight-purple&column=7&no-bg=true&no-frame=true" alt="trophies" />
 </p>
 
 <p align="left"> 
